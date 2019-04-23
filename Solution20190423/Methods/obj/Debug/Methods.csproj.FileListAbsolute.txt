@@ -1,0 +1,7 @@
+C:\Users\sattar\Desktop\P210\C#\20190423\Solution20190423\Methods\bin\Debug\Methods.exe.config
+C:\Users\sattar\Desktop\P210\C#\20190423\Solution20190423\Methods\bin\Debug\Methods.exe
+C:\Users\sattar\Desktop\P210\C#\20190423\Solution20190423\Methods\bin\Debug\Methods.pdb
+C:\Users\sattar\Desktop\P210\C#\20190423\Solution20190423\Methods\obj\Debug\Methods.csprojAssemblyReference.cache
+C:\Users\sattar\Desktop\P210\C#\20190423\Solution20190423\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\sattar\Desktop\P210\C#\20190423\Solution20190423\Methods\obj\Debug\Methods.exe
+C:\Users\sattar\Desktop\P210\C#\20190423\Solution20190423\Methods\obj\Debug\Methods.pdb

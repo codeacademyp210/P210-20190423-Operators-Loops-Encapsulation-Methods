@@ -1,0 +1,7 @@
+C:\Users\sattar\Desktop\P210\C#\20190423\Solution20190423\DecisionMaking\bin\Debug\DecisionMaking.exe.config
+C:\Users\sattar\Desktop\P210\C#\20190423\Solution20190423\DecisionMaking\bin\Debug\DecisionMaking.exe
+C:\Users\sattar\Desktop\P210\C#\20190423\Solution20190423\DecisionMaking\bin\Debug\DecisionMaking.pdb
+C:\Users\sattar\Desktop\P210\C#\20190423\Solution20190423\DecisionMaking\obj\Debug\DecisionMaking.csprojAssemblyReference.cache
+C:\Users\sattar\Desktop\P210\C#\20190423\Solution20190423\DecisionMaking\obj\Debug\DecisionMaking.csproj.CoreCompileInputs.cache
+C:\Users\sattar\Desktop\P210\C#\20190423\Solution20190423\DecisionMaking\obj\Debug\DecisionMaking.exe
+C:\Users\sattar\Desktop\P210\C#\20190423\Solution20190423\DecisionMaking\obj\Debug\DecisionMaking.pdb
